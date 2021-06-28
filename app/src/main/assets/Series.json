@@ -1,0 +1,94 @@
+{
+    "series":[
+        {
+            "id":"1",
+            "title":"The Arrow",
+            "description":"Panah adalah menceritakan kembali petualangan dari legendaris DC pahlawan Green Arrow",
+            "year":"2012",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+            "genre":"Crime, Drama",
+            "cast":"Stephen Amell"
+        },
+        {
+            "id":"2",
+            "title":"Doom Patrol",
+            "description":"The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.", 
+            "year":"2019",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nclcURTdlqVbDr6HPmrHC5X4qUu.jpg",
+            "genre":"Sci-fi, Comedy, Drama",
+            "cast":"Diane Guerrero"
+        },
+        {
+            "id":"3",
+            "title":"Dragon Ball",
+            "description":"Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk bola naga membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh bola naga dalam sebuah petualangan yang akan mengubah hidup Goku selamanya. Lihat bagaimana Goku bertemu teman-teman seumur hidupnya Bulma, Yamcha, Krillin, Master Roshi dan banyak lagi.",
+            "year":"1986",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1YIJYarVZKH3nq89n1lVAxeVktg.jpg",
+            "genre":"Animation, Action",
+            "cast":"Masako Nozawa"
+        },
+        {
+            "id":"4",
+            "title":"Fairy Tail: Dragon Cry",
+            "description":"Natsu Dragneel and his friends travel to the island Kingdom of Stella, where they will reveal dark secrets, fight the new enemies and once again save the world from destruction.",
+            "year":"2017",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rTNk0cZ0CnTp7EMndtaJVLUUffh.jpg",
+            "genre":"Animation, Action",
+            "cast":"Makoto Furukawa"
+        },
+        {
+            "id":"5",
+            "title":"Family Guy",
+            "description":"Seri animasi animasi Freakin 'Sweet yang sakit, terpelintir, dan salah, menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sementara menghirup Martinis dan memilah-milah masalah hidupnya sendiri.",
+            "year":"1999",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg",
+            "genre":"Animation",
+            "cast":"Mike Henry"
+        },
+        {
+            "id":"6",
+            "title":"The Flash",
+            "description":"Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya \"manusia meta\" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat, tetapi tidak lama sebelum dunia mengetahui apa yang menjadi Barry Allen ... The Flash.",
+            "year":"2014",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+            "genre":"Sci-fi",
+            "cast":"Grant Gustin" 
+        },
+        {
+            "id":"7",
+            "title":"Game of Thrones",
+            "description":"Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh. Semua sementara kejahatan yang sangat kuno terbangun di utara terjauh. Di tengah-tengah perang, perintah militer yang diabaikan, Night's Watch, adalah yang berdiri di antara alam manusia dan kengerian es di luarnya.",
+            "year":"2011",
+            "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+            "genre": "Drama",
+            "cast": "Emilia Clarke"
+        },
+        {
+            "id": "8",
+            "title": "Gotham",
+            "description": "Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordon dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?",
+            "year": "2014",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5tSHzkJ1HBnyGdcpr6wSyw7jYnJ.jpg",
+            "genre": "Drama, Crime",
+            "cast": "Ben McKenzie"
+        },
+        {
+            "id": "9",
+            "title": "Grey's Anatomy",
+            "description":"Ikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial di Seattle.",
+            "year":"2005",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg",
+            "genre":"Drama",
+            "cast": "Ellen Pompeo"
+        },
+        {
+            "id":"10",
+            "title": "Hanna",
+            "description":"This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.",
+            "year":"2019",
+            "imagePath":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5nSSkcM3TgpllZ7yTyBOQEgAX36.jpg",
+            "genre":"Action",
+            "cast":"Esme Creed-Miles"
+        }
+    ]
+}

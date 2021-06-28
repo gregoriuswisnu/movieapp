@@ -1,0 +1,97 @@
+{
+    "movies":[
+        {
+            "id":           "1",
+            "title":        "A Star is Born",
+            "genre":        "Drama",
+            "description":  "Seorang bintang musik country yang karirnya mulai memudar, Jackson Maine (Bradley Cooper) menemukan sebuah talenta yang sangat berbakat di dalam diri dari seorang musisi muda bernama Ally (Lady Gaga). Maine berhasil mengorbitkan Ally menjadi seorang bintang muda yang menjanjikan. Namun keduanya terlibat hubungan yang lebih jauh dari sekedar mentor dan anak didik. Seiring dengan meroketnya karir dari Ally dan dirinya, Maine mengalami dilema mengenai masalah ini.",
+            "year":         "2018",
+            "cast":         "Bradley Cooper",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
+        },
+
+        {
+            "id":           "2",
+            "title":        "Alita: Battle Angel",
+            "genre":        "Action",
+            "description":  "Ketika Alita terbangun tanpa ingatan tentang siapa dia di dunia masa depan yang tidak dia kenal, dia ditangkap oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat dalam cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan luar biasa. lalu." ,
+            "year":         "2019",
+            "cast":         "Rosa Salazar",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg"
+        },
+
+        {
+            "id":           "3",
+            "title":        "Aquaman",
+            "genre":        "Action",
+            "description":  "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+            "year":         "2018",
+            "cast":         "Jason Momoa",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLPffWMhMj1l50ND3KchMjYoKmE.jpg"
+        },
+
+        {
+            "id":           "4",
+            "title":        "Bohemian Rhapsody",
+            "genre":        "Drama, Music",
+            "description":  "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+            "year":         "2018",
+            "cast":         "Rami Malek",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg"
+        },
+        {
+            "id":           "5",
+            "title":        "Cold Pursuit",
+            "genre":        "Action",
+            "description":  "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+            "year":         "2019",
+            "cast":         "Liam Neeson",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg"
+        },
+        {
+            "id":           "6",
+            "title":        "Creed",
+            "genre":        "Drama",
+            "description":  "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+            "year":         "2015",
+            "cast":         "Michael B. Jordan",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iBq4od6j1ZAvDVO7hwmHT2Xf2Bt.jpg"
+        },
+        {
+            "id":           "7",
+            "title":        "Fantastic Beast: Crimes of Grindelwald",
+            "genre":        "Fantasy",
+            "description":  "Gellert Grindelwald telah melarikan diri dari penjara dan telah mulai mengumpulkan pengikut ke tujuannya — meninggikan penyihir di atas semua makhluk non-magis. Satu-satunya yang bisa menghentikannya adalah penyihir yang pernah disebutnya sebagai sahabat terdekatnya, Albus Dumbledore. Namun, Dumbledore akan perlu mencari bantuan dari penyihir yang telah menggagalkan Grindelwald sebelumnya, mantan muridnya, Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis-garis digambar saat cinta dan kesetiaan diuji, bahkan di antara teman-teman dan keluarga sejati, di dunia sihir yang semakin terbagi.",
+            "year":         "2018",
+            "cast":         "Eddie Redmayne",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
+        },
+        {
+            "id":           "8",
+            "title":        "Glass",
+            "genre":        "Fiction",
+            "description":  "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+            "year":         "2019",
+            "cast":         "Samuel L. Jackson",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg"
+        },
+        {
+            "id":           "9",
+            "title":        "How to Train Your Dragon",
+            "genre":        "Fantacy",
+            "description":  "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father",
+            "year":         "2010",
+            "cast":         "Jay Baruchel",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
+        },
+        {
+            "id":           "10",
+            "title":        "Avengers: Infinity War",
+            "genre":        "Fiction, Action",
+            "description":  "Karena Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh seorang pahlawan, bahaya baru telah muncul dari bayangan kosmik: Thanos. Seorang lalim penghujatan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan kehendak memutar pada semua realitas. Segala sesuatu yang telah diperjuangkan oleh Avengers telah berkembang hingga saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.\n",
+            "year":         "2018",
+            "cast":         "Robert Downey Jr.",
+            "imagePath" :   "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+        }
+    ]
+}
